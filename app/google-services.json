@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364701425251",
+    "project_id": "carserviceapp-fb926",
+    "storage_bucket": "carserviceapp-fb926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364701425251:android:4d9edc6c75ec1c6dcf2256",
+        "android_client_info": {
+          "package_name": "com.example.car_service_wecarcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364701425251-ekbt84ghuv4e6et5ct0ujlepfg6c9gt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbIzCXXBFmdaFe5qmI9ggyJH-Hd3vGnKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364701425251-ekbt84ghuv4e6et5ct0ujlepfg6c9gt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

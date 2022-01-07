@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">car_service_WECARCARE</string>
+    <string name="appbtn">Appointment</string>
+    <string name="lonbtn">Loaner Car</string>
+    <string name="drstpbtn">Door Step</string>
+    <string name="pybtn">Payment</string>
+    <string name="repbtn">Report</string>
+    <string name="abtusbtn">About Us</string>
+    <string name="we">WE</string>
+    <string name="carcare">carcare</string>
+    <string name="invalid_vno">Please Enter Valid Vehicle No</string>
+    <string name="invalid_vehicleName">Vehicle Name Is Required</string>
+    <string name="invalid_appointmentDate">Appointment Date is required!</string>
+    <string name="wee">WE</string>
+    <string name="carcaremain">CARCARE</string>
+    <string name="appointment">APPOINTMENT</string>
+    <string name="lonarcar">Loaner Car</string>
+    <string name="doorsteps">Doorstep</string>
+    <string name="payment">Payment</string>
+    <string name="report">Report</string>
+    <string name="reporta">Report</string>
+    <string name="aboutUS" />
+    <string name="aboutus">About Us</string>
+    <string name="appointments">Appointment</string>
+</resources>
