@@ -1,0 +1,2 @@
+# car-service-mobile-app-Appoinment
+“WECARCARE” is a vehicle maintenance app focused on the Sri Lanka community that connects in the company various competent auto mechanics and customers directly. The main intention of this app is to assist people to resolve all car repair and maintenance issues without wasting customers’ valuable time. Customers can find the right mechanic for their car using this app.  (2nd-year 2nd semester, Moblie Application Development Module, 70% marks for the project) Android Studio, Java, Firebase
